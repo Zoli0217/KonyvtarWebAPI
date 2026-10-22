@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05731DC8-D74C-4B50-8BDA-CB578B3E5766}|KonyvtarWebAPI\\KonyvtarWebAPI.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapi\\konyvtarwebapi\\controllers\\konyvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05731DC8-D74C-4B50-8BDA-CB578B3E5766}|KonyvtarWebAPI\\KonyvtarWebAPI.csproj|solutionrelative:konyvtarwebapi\\controllers\\konyvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05731DC8-D74C-4B50-8BDA-CB578B3E5766}|KonyvtarWebAPI\\KonyvtarWebAPI.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapi\\konyvtarwebapi\\dtos\\konyvgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05731DC8-D74C-4B50-8BDA-CB578B3E5766}|KonyvtarWebAPI\\KonyvtarWebAPI.csproj|solutionrelative:konyvtarwebapi\\dtos\\konyvgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05731DC8-D74C-4B50-8BDA-CB578B3E5766}|KonyvtarWebAPI\\KonyvtarWebAPI.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapi\\konyvtarwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05731DC8-D74C-4B50-8BDA-CB578B3E5766}|KonyvtarWebAPI\\KonyvtarWebAPI.csproj|solutionrelative:konyvtarwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05731DC8-D74C-4B50-8BDA-CB578B3E5766}|KonyvtarWebAPI\\KonyvtarWebAPI.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapi\\konyvtarwebapi\\dtos\\konyvpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05731DC8-D74C-4B50-8BDA-CB578B3E5766}|KonyvtarWebAPI\\KonyvtarWebAPI.csproj|solutionrelative:konyvtarwebapi\\dtos\\konyvpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05731DC8-D74C-4B50-8BDA-CB578B3E5766}|KonyvtarWebAPI\\KonyvtarWebAPI.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapi\\konyvtarwebapi\\models\\konyv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05731DC8-D74C-4B50-8BDA-CB578B3E5766}|KonyvtarWebAPI\\KonyvtarWebAPI.csproj|solutionrelative:konyvtarwebapi\\models\\konyv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05731DC8-D74C-4B50-8BDA-CB578B3E5766}|KonyvtarWebAPI\\KonyvtarWebAPI.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapi\\konyvtarwebapi\\controllers\\konyvalapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05731DC8-D74C-4B50-8BDA-CB578B3E5766}|KonyvtarWebAPI\\KonyvtarWebAPI.csproj|solutionrelative:konyvtarwebapi\\controllers\\konyvalapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05731DC8-D74C-4B50-8BDA-CB578B3E5766}|KonyvtarWebAPI\\KonyvtarWebAPI.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapi\\konyvtarwebapi\\data\\konyvtardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05731DC8-D74C-4B50-8BDA-CB578B3E5766}|KonyvtarWebAPI\\KonyvtarWebAPI.csproj|solutionrelative:konyvtarwebapi\\data\\konyvtardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05731DC8-D74C-4B50-8BDA-CB578B3E5766}|KonyvtarWebAPI\\KonyvtarWebAPI.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapi\\konyvtarwebapi\\models\\szerzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05731DC8-D74C-4B50-8BDA-CB578B3E5766}|KonyvtarWebAPI\\KonyvtarWebAPI.csproj|solutionrelative:konyvtarwebapi\\models\\szerzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05731DC8-D74C-4B50-8BDA-CB578B3E5766}|KonyvtarWebAPI\\KonyvtarWebAPI.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapi\\konyvtarwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05731DC8-D74C-4B50-8BDA-CB578B3E5766}|KonyvtarWebAPI\\KonyvtarWebAPI.csproj|solutionrelative:konyvtarwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05731DC8-D74C-4B50-8BDA-CB578B3E5766}|KonyvtarWebAPI\\KonyvtarWebAPI.csproj|c:\\users\\bodi.zoltan\\documents\\b\u0151di zolt\u00E1n\\backend\\konyvtarwebapi\\konyvtarwebapi\\konyvtarwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05731DC8-D74C-4B50-8BDA-CB578B3E5766}|KonyvtarWebAPI\\KonyvtarWebAPI.csproj|solutionrelative:konyvtarwebapi\\konyvtarwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KonyvGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebAPI\\KonyvtarWebAPI\\DTOs\\KonyvGetDTO.cs",
+              "RelativeDocumentMoniker": "KonyvtarWebAPI\\DTOs\\KonyvGetDTO.cs",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebAPI\\KonyvtarWebAPI\\DTOs\\KonyvGetDTO.cs",
+              "RelativeToolTip": "KonyvtarWebAPI\\DTOs\\KonyvGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T11:31:26.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KonyvPostDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebAPI\\KonyvtarWebAPI\\DTOs\\KonyvPostDTO.cs",
+              "RelativeDocumentMoniker": "KonyvtarWebAPI\\DTOs\\KonyvPostDTO.cs",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebAPI\\KonyvtarWebAPI\\DTOs\\KonyvPostDTO.cs",
+              "RelativeToolTip": "KonyvtarWebAPI\\DTOs\\KonyvPostDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T11:21:58.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KonyvController.cs",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebAPI\\KonyvtarWebAPI\\Controllers\\KonyvController.cs",
+              "RelativeDocumentMoniker": "KonyvtarWebAPI\\Controllers\\KonyvController.cs",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebAPI\\KonyvtarWebAPI\\Controllers\\KonyvController.cs",
+              "RelativeToolTip": "KonyvtarWebAPI\\Controllers\\KonyvController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T11:04:22.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KonyvAlapController.cs",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebAPI\\KonyvtarWebAPI\\Controllers\\KonyvAlapController.cs",
+              "RelativeDocumentMoniker": "KonyvtarWebAPI\\Controllers\\KonyvAlapController.cs",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebAPI\\KonyvtarWebAPI\\Controllers\\KonyvAlapController.cs",
+              "RelativeToolTip": "KonyvtarWebAPI\\Controllers\\KonyvAlapController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T10:37:17.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebAPI\\KonyvtarWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "KonyvtarWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebAPI\\KonyvtarWebAPI\\Program.cs",
+              "RelativeToolTip": "KonyvtarWebAPI\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T09:45:58.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebAPI\\KonyvtarWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "KonyvtarWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebAPI\\KonyvtarWebAPI\\appsettings.json",
+              "RelativeToolTip": "KonyvtarWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-22T09:44:56.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KonyvtarDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebAPI\\KonyvtarWebAPI\\Data\\KonyvtarDbContext.cs",
+              "RelativeDocumentMoniker": "KonyvtarWebAPI\\Data\\KonyvtarDbContext.cs",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebAPI\\KonyvtarWebAPI\\Data\\KonyvtarDbContext.cs",
+              "RelativeToolTip": "KonyvtarWebAPI\\Data\\KonyvtarDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T09:40:26.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Szerzo.cs",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebAPI\\KonyvtarWebAPI\\Models\\Szerzo.cs",
+              "RelativeDocumentMoniker": "KonyvtarWebAPI\\Models\\Szerzo.cs",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebAPI\\KonyvtarWebAPI\\Models\\Szerzo.cs",
+              "RelativeToolTip": "KonyvtarWebAPI\\Models\\Szerzo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T09:35:18.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Konyv.cs",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebAPI\\KonyvtarWebAPI\\Models\\Konyv.cs",
+              "RelativeDocumentMoniker": "KonyvtarWebAPI\\Models\\Konyv.cs",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebAPI\\KonyvtarWebAPI\\Models\\Konyv.cs",
+              "RelativeToolTip": "KonyvtarWebAPI\\Models\\Konyv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T09:35:05.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KonyvtarWebAPI",
+              "DocumentMoniker": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebAPI\\KonyvtarWebAPI\\KonyvtarWebAPI.csproj",
+              "RelativeDocumentMoniker": "KonyvtarWebAPI\\KonyvtarWebAPI.csproj",
+              "ToolTip": "C:\\Users\\bodi.zoltan\\Documents\\B\u0151di Zolt\u00E1n\\Backend\\KonyvtarWebAPI\\KonyvtarWebAPI\\KonyvtarWebAPI.csproj",
+              "RelativeToolTip": "KonyvtarWebAPI\\KonyvtarWebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-22T09:32:52.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
