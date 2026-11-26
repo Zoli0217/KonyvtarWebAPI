@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using KonyvtarWebAPI.Models;
 using KonyvtarWebAPI.Data;
 using KonyvtarWebAPI.DTOs;
+using Microsoft.AspNetCore.Cors;
 
 [Route("api/[controller]")]
 [ApiController]
@@ -16,6 +17,7 @@ public class KonyvController : ControllerBase
 
     // GET: api/Konyv
     [HttpGet]
+    [EnableCors("FrontendPolicy")]
     public async Task<ActionResult<IEnumerable<KonyvGetDTO>>> GetKonyv()
     {
         var konyvek = await _context.Konyvek.Include(k => k.Szerzo)
@@ -99,6 +101,7 @@ public class KonyvController : ControllerBase
 
     // DELETE: api/Konyv/5
     [HttpDelete("{id}")]
+    [EnableCors("BackendPolicy")]
     public async Task<IActionResult> DeleteKonyv(int? id)
     {
         var konyv = await _context.Konyvek.FindAsync(id);
@@ -112,6 +115,9 @@ public class KonyvController : ControllerBase
 
         return NoContent();
     }
+
+    [HttpGet("csakfejleszteskor")]
+    [DisableCors]
 
     private bool KonyvExists(int? id)
     {

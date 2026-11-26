@@ -149,3 +149,4 @@ C:\Users\bodi.zoltan\Documents\Bődi Zoltán\Backend\KonyvtarWebAPI\KonyvtarWebA
 C:\Users\bodi.zoltan\Documents\Bődi Zoltán\Backend\KonyvtarWebAPI\KonyvtarWebAPI\obj\Debug\net10.0\KonyvtarWebAPI.genruntimeconfig.cache
 C:\Users\bodi.zoltan\Documents\Bődi Zoltán\Backend\KonyvtarWebAPI\KonyvtarWebAPI\obj\Debug\net10.0\ref\KonyvtarWebAPI.dll
 C:\Users\bodi.zoltan\Documents\Bődi Zoltán\Backend\KonyvtarWebAPI\KonyvtarWebAPI\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\bodi.zoltan\Documents\Bődi Zoltán\Backend\KonyvtarWebAPI\KonyvtarWebAPI\obj\Debug\net10.0\KonyvtarWebAPI.sourcelink.json

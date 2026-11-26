@@ -20,6 +20,35 @@ namespace KonyvtarWebAPI
                 options.UseSqlite(builder.Configuration.GetConnectionString("KonyvtarDbKapcsolat"));
             });
 
+            builder.Services.AddCors(options =>
+            {
+                //options.AddDefaultPolicy(builder =>
+                //{
+                //    builder.WithOrigins("http://localhost:5500")
+                //           .WithMethods("POST", "DELETE")
+                //           .WithHeaders("Content Type");
+                //});
+
+                options.AddPolicy("FrontendPolicy", builder =>
+                    builder.WithOrigins(
+                                "https://localhost:5500",
+                                "https://sajatoldal.hu"
+                                )
+                        .WithMethods("GET", "POST")
+                        .AllowAnyHeader()
+                );
+
+                options.AddPolicy("BackendPolicy", builder =>
+                    builder.WithOrigins(
+                                "https://localhost:5500",
+                                "https://sajatoldal.hu"
+                                )
+                        .WithMethods("GET", "POST", "PUT", "DELETE")
+                        .AllowAnyHeader()
+
+                );
+            });
+
             builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
@@ -35,6 +64,8 @@ namespace KonyvtarWebAPI
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
+
+            app.UseCors("FrontendPolicy");
 
 
             app.MapControllers();
